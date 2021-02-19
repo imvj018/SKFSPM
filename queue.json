@@ -1,29 +1,7 @@
 {
   "d": {
     "results": [
-      {
-        "operation": "OP001",
-        "work_center": "001",
-        "start_time": "",
-        "end_time": "",
-        "confirm": "",
-        "partial_confirm": "",
-        "downtime_reason": "",
-        "pending_operations": "",
-        "idle_time": ""
-      },
-      {
-        "operation": "OP002",
-        "work_center": "002",
-        "start_time": "",
-        "end_time": "",
-        "confirm": "",
-        "partial_confirm": "",
-        "downtime_reason": "",
-        "pending_operations": "",
-        "idle_time": ""
-      },
-      {
+            {
         "operation": "OP03",
         "work_center": "003",
         "start_time": "",
