@@ -7,7 +7,7 @@
         "work_center": "002",
         "start_time": "09:00:00",
         "end_time": "",
-        "confirm": "",
+        "confirm": "No",
         "partial_confirm": "Yes",
         "downtime_reason": "Labor Unavailable",
         "pending_operations": "50",
