@@ -4,10 +4,10 @@
       {
         "operation": "OP001",
         "work_center": "001",
-        "start_time": "",
-        "end_time": "",
-        "confirm": "",
-        "partial_confirm": "",
+        "start_time": "09:00:00",
+        "end_time": "05:00:00",
+        "confirm": "Yes",
+        "partial_confirm": "No",
         "downtime_reason": "",
         "pending_operations": "",
         "idle_time": ""
