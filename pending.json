@@ -5,13 +5,13 @@
       {
         "operation": "OP002",
         "work_center": "002",
-        "start_time": "",
+        "start_time": "09:00:00",
         "end_time": "",
         "confirm": "",
-        "partial_confirm": "",
-        "downtime_reason": "",
-        "pending_operations": "",
-        "idle_time": ""
+        "partial_confirm": "150",
+        "downtime_reason": "Labor Unavailable",
+        "pending_operations": "50",
+        "idle_time": "00:30:00"
       }
     ]
   }
