@@ -1,0 +1,116 @@
+{
+  "d": {
+    "results": [
+      {
+        "operation": "OP001",
+        "work_center": "001",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP002",
+        "work_center": "002",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP03",
+        "work_center": "003",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP004",
+        "work_center": "004",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP005",
+        "work_center": "005",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP006",
+        "work_center": "006",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP007",
+        "work_center": "007",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP008",
+        "work_center": "008",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP009",
+        "work_center": "009",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      },
+      {
+        "operation": "OP0010",
+        "work_center": "0010",
+        "start_time": "",
+        "end_time": "",
+        "confirm": "",
+        "partial_confirm": "",
+        "downtime_reason": "",
+        "pending_operations": "",
+        "idle_time": ""
+      }
+    ]
+  }
+}
