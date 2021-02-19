@@ -8,7 +8,7 @@
         "start_time": "09:00:00",
         "end_time": "",
         "confirm": "",
-        "partial_confirm": "150",
+        "partial_confirm": "Yes",
         "downtime_reason": "Labor Unavailable",
         "pending_operations": "50",
         "idle_time": "00:30:00"
